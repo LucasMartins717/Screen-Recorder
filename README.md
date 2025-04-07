@@ -8,14 +8,14 @@
 
 ## Introdução
 
-***Screen Recorder*** é um aplicativo de gravação de tela desenvolvido com Electron, Vite e React, criado como meu primeiro contato com Electron. O foco principal foi o design da interface, um overlay simples e funcional inspirado no gravador de tela da Nvidia. O objetivo foi criar uma UI intuitiva e esteticamente agradável, explorando o desenvolvimento multiplataforma e a integração entre processos main e renderer no Electron.<br/><br/>
+***Screen Recorder*** é um aplicativo de gravação de tela desenvolvido com Electron, Vite e React, criado como meu primeiro contato com Electron. O foco principal foi o design da interface, um overlay simples e funcional inspirado no gravador de tela da Nvidia. O objetivo foi criar uma UI intuitiva, explorando o desenvolvimento multiplataforma e a integração entre processos main e renderer no Electron.<br/><br/>
 ![gifDemonstração](resources/showGif.gif)
 
 ## Funcionalidades
 
 **Overlay Personalizável** 🎨: Interface de usuário fluida com um design elegante e opções ajustáveis diretamente no overlay.
 
-**Menu Intuitivo** 📋: Menu inicial com três opções principais: *Instant Replay (on/off)*, *Record (on/off)* e configurações gerais, projetado para fácil navegação.
+**Menu Intuitivo** 📋: Menu inicial com três opções principais: *Instant Replay (on/off)*, *Record (on/off)* e *configurações gerais*, projetado para fácil navegação.
 
 **Personalização de Hotkeys** ⌨️: Suporte a atalhos globais customizáveis para ações rápidas, gerenciados pelo módulo globalShortcut do Electron.
 
