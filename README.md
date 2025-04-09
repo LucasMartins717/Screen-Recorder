@@ -1,4 +1,4 @@
-# Orbits
+# Screen-Recorder
 
 • [Introdução](#introdução)  
 • [Funcionalidades](#funcionalidades)  
